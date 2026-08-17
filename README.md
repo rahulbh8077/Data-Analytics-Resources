@@ -48,10 +48,10 @@ A deep dive into the mathematical backbone of data analytics.
 
 | Topic | Key Concepts | Reference PDFs / Notebooks |
 | :--- | :--- | :--- |
-| **Descriptive Statistics** | Mean, Median, Mode, Variance, Standard Deviation, Skewness, Kurtosis | `[Pending Upload]` |
-| **Probability Theory** | Bayes' Theorem, Conditional Probability, Permutations & Combinations | `[Pending Upload]` |
-| **Distributions** | Normal (Gaussian), Binomial, Poisson, Exponential, t-Distribution | `[Pending Upload]` |
-| **Inferential Statistics** | Central Limit Theorem, Confidence Intervals, Hypothesis Testing ($z$-test, $t$-test, ANOVA, Chi-Square) | `[Pending Upload]` |
+| **Descriptive Statistics** | Mean, Median, Mode, Variance, Standard Deviation, Skewness, Kurtosis | `[Uploaded Sucessfully]` |
+| **Probability Theory** | Bayes' Theorem, Conditional Probability, Permutations & Combinations | `[Uploaded Sucessfully]` |
+| **Distributions** | Normal (Gaussian), Binomial, Poisson, Exponential, t-Distribution | `[Uploaded Sucessfully]` |
+| **Inferential Statistics** | Central Limit Theorem, Confidence Intervals, Hypothesis Testing ($z$-test, $t$-test, ANOVA, Chi-Square) | `[Uploaded Sucessfully]` |
 
 ---
 
